@@ -26,5 +26,5 @@ Manually deploy your application to this environment by using eb deploy
 
 - Links to both deployed servers (GUI deploy and CLI deploy)
 [GUI Deploy](Lab16cloudserver-env.eba-65es2wrz.us-west-1.elasticbeanstalk.com)
-[CLI Deploy]()
+[CLI Deploy](cloud-server-cli.eba-65es2wrz.us-west-1.elasticbeanstalk.com)
 
